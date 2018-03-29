@@ -1,6 +1,6 @@
 {
-    "name": "eliasgoss/php-silex-demo",
-    "description": "goss",
+    "name": "vonkuptschino/aaa",
+    "description": "php app",
     "type": "project",
     "require": {
         "silex/silex": "~2.0",
@@ -10,8 +10,8 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "gossoudarev",
-            "email": "igossoudarev@herzen.spb.ru"
+            "name": "Sophia Kramar",
+            "email": "krasofija@yandex.ru"
         }
     ]
 }
